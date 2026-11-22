@@ -6,6 +6,7 @@
 - .git – Metadata of the [Git](https://git-scm.com) repository;
 - .github – Configuration of [GitHub](https://github.com);
 - [.gitignore](https://git-scm.com/docs/gitignore);
+- [.npmignore](https://docs.npmjs.com/cli/v7/configuring-npm/npmignore);
 - [.vscode](https://code.visualstudio.com/docs/configure/settings#_workspace-settings) – Configuration of [Visual Studio Code](https://code.visualstudio.com);
 - [CONTRIBUTING.md](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors);
 - node_modules – [Node.js](https://nodejs.org) dependencies;
