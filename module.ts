@@ -1,1 +1,1 @@
-export type * as rfc5321_ from "./index.ts";
+export * as rfc5321_ from "./index.ts";
