@@ -1,1 +1,1 @@
-export type * from "./source/module.ts";
+export * from "./source/module.ts";
